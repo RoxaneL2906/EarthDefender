@@ -1,0 +1,7 @@
+.git
+.vscode
+src
+tsconfig.json
+README.md
+Dockerfile
+.dockerignore
